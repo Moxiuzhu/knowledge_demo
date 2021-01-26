@@ -1,6 +1,11 @@
+
 # knowledge_demo
 
 ## Project setup
+```
+git clone https://github.com/Moxiuzhu/knowledge_demo.git
+```
+
 ```
 npm install
 ```
